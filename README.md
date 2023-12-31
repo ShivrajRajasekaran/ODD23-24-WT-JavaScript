@@ -1,12 +1,5 @@
-# ODD23-24-WT-JavaScript
-## NAME: SHIVRAJ R
-
-## REFERENCE NUMBER: 23013397
-
-## DEPARTMENT: CSE(INTERNET OF THINGS)
-
-## PROGRAM 1
-AIM:
+# EX-09-JAVASCRIPT
+## AIM:
 To create a form with java script code to calculate electricity bill.
 
 ## DESIGNING PROCEDURE:
